@@ -37,7 +37,7 @@
 }
 
 .hero{
-    background-image: url(assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
 }
 .hero_mid{
     width: 998px;
@@ -260,7 +260,7 @@
     width: 1140px;
     height: 313px;
     margin: 0px auto 80px;
-    background-image: url(assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     border-radius: 16px;
     background-color: rgba(0, 0, 0, 0.6);
     background-blend-mode: overlay;
