@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+
+.azeret-mono-font{
+  font-family: "Azeret Mono", monospace;
+}
 .container{
     width: 1440px;
     margin: auto;
